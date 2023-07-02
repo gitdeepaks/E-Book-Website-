@@ -2,6 +2,8 @@
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
+[Please do check it out 😊](https://e-book-website.vercel.app/)
+
 <img src="./images/screen.png"  />
 
 ## Features
